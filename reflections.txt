@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+	* What new skills have you learned?
+	* What has been easy?
+	* What has been difficult?
+	* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+---
+
+Your response goes here!
+
+* What new skills have you learned?
+		So far I have learned a lot of HMTL5, CSS and JS. Perhaps I should clarify I have already donde the next three projects to this one, doing this project now because of it being a new addition. However I did learn new elements which was great, this new sections it's a good addition.
+
+	* What has been easy?
+		I would say talking about all the things I've seen in the nanodegree so far, the easiest has beem HTML.
+
+	* What has been difficult?
+		The hardest for me so far has been CSS, understanding how to make a good grid layout is very challenging, CSS is huge.
+
+	* How have you used the problem solving strategies from the first project to overcome challenges so far?
+		I try to remind my self that even when sometimes some issues seem unsolvable they are not, I just need to give them more time, talk to other people and perhaps clear my head a little before I keep working on it.
